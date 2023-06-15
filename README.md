@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Senior at Montana State University studying Computer Science and Data Science.<br>I run a digital marketing agency, The Milne Empire that specializes in website design and devlopment along with Search Engine Optimization (SEO).<br>I also work as a Solutions Developer at Zoot Enterprises.
+I have recently graduated from Montana State University with a BS in Computer Science and minor in Data Science.<br>I run a digital marketing agency, The Milne Empire that specializes in website design and devlopment along with Search Engine Optimization (SEO).<br>I also work as a Solutions Developer at Zoot Enterprises.
 
 
 ## 🌐 Socials:

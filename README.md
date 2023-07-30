@@ -3,7 +3,7 @@ I have recently graduated from Montana State University with a BS in Computer Sc
 
 <br>I run a digital marketing agency, The Milne Empire that specializes in website design and devlopment along with Search Engine Optimization (SEO).
 
-<br>I am also a Software Engineer at Hatchery.
+<br>I am also a Software Engineer at [Hatchery](https://www.hatchery.com/hatchery/) and [Pointr](https://pointr.io/).
 
 
 ## 🌐 Socials:

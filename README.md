@@ -7,7 +7,7 @@ I have recently graduated from Montana State University with a BS in Computer Sc
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/colemilne) 
+<a href="https://www.colemilne.com">![Website](https://img.shields.io/badge/Website-blue)</a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/colemilne) 
 
 # 💻 Tech Stack:
 ### Web Development

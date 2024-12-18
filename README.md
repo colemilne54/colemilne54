@@ -1,9 +1,15 @@
 # 💫 About Me:
-I have recently graduated from Montana State University with a BS in Computer Science and minor in Data Science.
+Full-stack software engineer specializing in scaling web applications and transforming system reliability. I bring a unique blend of technical expertise and entrepreneurial success, having built and managed systems serving 100,000+ users and processing millions of records. <br>
 
-<br>I run a digital marketing agency, [The Milne Empire](https://www.themilneempire.com/) that specializes in website design and development along with Search Engine Optimization (SEO).
+At Pointr (acquired by EarthWise Pet), I led critical system improvements that eliminated recurring failures and streamlined operations. As founder of The Milne Empire, I've architected solutions for diverse clients while scaling an e-commerce platform to $1M+ in revenue. At Hatchery, I've helped architect a sophisticated financial analytics platform, implementing comprehensive third-party integrations. My experience at Zoot Enterprises involved developing secure credit decisioning systems for the world’s largest financial institutions and retail corporations. <br>
 
-<br>I am also a Software Engineer at [Hatchery](https://www.hatchery.com/hatchery/) and [Earthwise Pet](https://earthwisepet.com/).
+I excel in:
+- Architecting and developing full-stack applications across multiple technology stacks
+- Implementing efficient CI/CD processes and establishing development best practices
+- Creating sophisticated platforms with third-party integrations
+- Managing complete system lifecycles and complex infrastructure <br>
+
+Currently focused on developing innovative SaaS solutions at Hatchery while continuing to drive technological advancement through select entrepreneurial ventures. Montana State University graduate (BS Computer Science, Data Science Minor) with highest honors. <br>
 
 
 ## 🌐 Socials:
